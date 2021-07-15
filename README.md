@@ -1,2 +1,2 @@
 # CreatorContracts
-Contracts created by Mudra Token Creator
+BEP-20 token contracts created by Mudra Token Creator
